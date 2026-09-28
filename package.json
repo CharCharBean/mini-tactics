@@ -1,0 +1,14 @@
+{
+  "name": "mini-tactics",
+  "version": "1.0.0",
+  "description": "A 3-level medieval grid-tactics game in a single HTML file.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
